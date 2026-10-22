@@ -8,9 +8,7 @@
 
 ## Phase I Report
 
-📄 **[Open / View Phase I Report (PDF)](Phase-I-Report.pdf)**
-
-> The PDF should be uploaded into this `capstone` folder with the exact filename `Phase-I-Report.pdf` so this link opens correctly.
+📄 **[Open / View Phase I Report (PDF)](ENSP465_Capstone_Phase1.pdf)**
 
 ## Submitted By
 - Shahbaz Sheikh — Roll No. 2401830007
