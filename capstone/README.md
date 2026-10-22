@@ -6,6 +6,12 @@
 **Programme:** B.Sc. Cyber Security, Semester V  
 **Academic Year:** 2026–27
 
+## Phase I Report
+
+📄 **[Open / View Phase I Report (PDF)](Phase-I-Report.pdf)**
+
+> The PDF should be uploaded into this `capstone` folder with the exact filename `Phase-I-Report.pdf` so this link opens correctly.
+
 ## Submitted By
 - Shahbaz Sheikh — Roll No. 2401830007
 - Harshit — Roll No. 2401830008
@@ -24,7 +30,7 @@ Smart Expense Tracker Using Go is a proposed application for recording expenses,
 - Validate user input and handle errors clearly.
 
 ## Design Documents
-Architecture and data-flow diagrams will be added in this folder when finalized. The Phase I PDF report should also be placed here as `Phase-I-Report.pdf` after the final formatted report is ready.
+- [Phase I architecture and data-flow diagrams](docs/phase1-design.md)
 
 ## Technology
 - Go
