@@ -9,7 +9,6 @@ type Person struct {
 	Salary float64
 }
 
-// Method to take input
 func (p *Person) readData() {
 	fmt.Print("Enter Name: ")
 	fmt.Scan(&p.Name)
@@ -24,7 +23,6 @@ func (p *Person) readData() {
 	fmt.Scan(&p.Salary)
 }
 
-// Method to print data
 func (p Person) printData() {
 	fmt.Println("Name:", p.Name)
 	fmt.Println("Age:", p.Age)
@@ -33,7 +31,6 @@ func (p Person) printData() {
 }
 
 func main() {
-
 	var person1 Person
 	var person2 Person
 
